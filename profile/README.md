@@ -7,12 +7,12 @@ just features that do one job well, with a clean admin interface and careful sec
 
 ## Plugins
 
-| Plugin | What it does | Links |
-|---|---|---|
-| **Web-Safe Fonts for Editor** | Adds 15 web-safe font families to the block editor, with self-hosted open-source alternatives for devices that lack them. Faster pages, no external font requests. | [WordPress.org](https://wordpress.org/plugins/web-safe-fonts-for-editor-by-rotistudio/) · [Source](https://github.com/RotiStudio/web-safe-fonts-for-editor) |
-| **SVG Block for Dashicons** | A native block for inserting the 334 WordPress Dashicons as inline SVG: fast, lightweight and fully customizable. | [WordPress.org](https://wordpress.org/plugins/svg-block-for-dashicon-rotistudio/) · [Source](https://github.com/RotiStudio/svg-block-for-dashicon) |
-| **Post Meta Editor and Cleaner** | Bulk editor for post meta: delete unused data, overwrite values, search and replace, and clean the database from the admin. | [WordPress.org](https://wordpress.org/plugins/post-meta-eac-rotistudio/) · [Source](https://github.com/RotiStudio/post-meta-eac-editor-claner) |
-| **RefiTune** | Site refiner toolkit: performance tweaks, security enhancements and usability improvements in one lightweight plugin. | [WordPress.org](https://wordpress.org/plugins/refitune/) · [Source](https://github.com/RotiStudio/refitune) |
+| Plugin | What it does | WordPress.org | GitHub |
+|---|---|---|---|
+| **[Post Meta Editor and Cleaner](https://github.com/RotiStudio/post-meta-eac-editor-claner)** | Bulk editor for post meta: delete unused data, overwrite values, search and replace, and clean the database from the admin. | [Plugin page](https://wordpress.org/plugins/post-meta-eac-rotistudio/) | [Repository](https://github.com/RotiStudio/post-meta-eac-editor-claner) |
+| **[RefiTune](https://github.com/RotiStudio/refitune)** | Site refiner toolkit: performance tweaks, security enhancements and usability improvements in one lightweight plugin. | [Plugin page](https://wordpress.org/plugins/refitune/) | [Repository](https://github.com/RotiStudio/refitune) |
+| **[SVG Block for Dashicons](https://github.com/RotiStudio/svg-block-for-dashicon)** | A native block for inserting the 334 WordPress Dashicons as inline SVG: fast, lightweight and fully customizable. | [Plugin page](https://wordpress.org/plugins/svg-block-for-dashicon-rotistudio/) | [Repository](https://github.com/RotiStudio/svg-block-for-dashicon) |
+| **[Web-Safe Fonts for Editor](https://github.com/RotiStudio/web-safe-fonts-for-editor)** | Adds 15 web-safe font families to the block editor, with self-hosted open-source alternatives for devices that lack them. Faster pages, no external font requests. | [Plugin page](https://wordpress.org/plugins/web-safe-fonts-for-editor-by-rotistudio/) | [Repository](https://github.com/RotiStudio/web-safe-fonts-for-editor) |
 
 ## How we build
 
